@@ -1,0 +1,81 @@
+{
+    "closeOnSubmit": true,
+    "needsErrorInfo": false,
+    "mobileBottomRow": 10,
+    "widgetName": "Modal1",
+    "displayName": "Modal",
+    "searchTags": [
+        "dialog",
+        "popup",
+        "notification"
+    ],
+    "topRow": 0,
+    "bottomRow": 10,
+    "parentRowSpace": 10,
+    "type": "WDS_MODAL_WIDGET",
+    "title": "Modal Title",
+    "showFooter": true,
+    "hideCard": false,
+    "mobileRightColumn": 64,
+    "parentColumnSpace": 1,
+    "leftColumn": 0,
+    "dynamicBindingPathList": [],
+    "showSubmitButton": true,
+    "submitButtonText": "Save Changes",
+    "key": "ndd4te7gwk",
+    "cancelButtonText": "Cancel",
+    "isDeprecated": false,
+    "rightColumn": 64,
+    "detachFromLayout": true,
+    "showHeader": true,
+    "widgetId": "u4651pb3ma",
+    "onCanvasUI": {
+        "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+        "disableParentSelection": true,
+        "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+        "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+        "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
+    },
+    "isVisible": false,
+    "version": 1,
+    "parentId": "0",
+    "tags": ["Layout"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 0,
+    "layout": [{
+        "layout": [{
+            "layout": [{
+                "widgetId": "ae1p2lpp6h",
+                "alignment": "center",
+                "widgetType": "SECTION_WIDGET"
+            }],
+            "isPermanent": false,
+            "maxChildLimit": 1,
+            "insertChild": true,
+            "layoutType": "WIDGET_ROW",
+            "layoutId": "k5haqsh9i5",
+            "isDropTarget": false
+        }],
+        "isPermanent": true,
+        "childTemplate": {
+            "layout": [],
+            "isPermanent": false,
+            "maxChildLimit": 1,
+            "insertChild": true,
+            "layoutType": "WIDGET_ROW",
+            "layoutId": "",
+            "isDropTarget": false
+        },
+        "layoutType": "ALIGNED_LAYOUT_COLUMN",
+        "layoutStyle": {
+            "border": "none",
+            "minHeight": "sizing-16",
+            "height": "100%"
+        },
+        "layoutId": "dc3xou4e3o",
+        "isDropTarget": true
+    }],
+    "size": "medium",
+    "mobileLeftColumn": 0
+}

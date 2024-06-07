@@ -27,8 +27,8 @@
                 {
                   "layout": [
                     {
-                      "widgetId": "49wpfgtlyi",
                       "alignment": "start",
+                      "widgetId": "688c48g92b",
                       "widgetType": "SECTION_WIDGET"
                     }
                   ],
@@ -36,7 +36,37 @@
                   "maxChildLimit": 1,
                   "insertChild": true,
                   "layoutType": "WIDGET_ROW",
-                  "layoutId": "cp902u6kj6",
+                  "layoutId": "1krkxjqz82",
+                  "isDropTarget": false
+                },
+                {
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "66dgdpcwem",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "isPermanent": false,
+                  "maxChildLimit": 1,
+                  "insertChild": true,
+                  "layoutType": "WIDGET_ROW",
+                  "layoutId": "ny9zjvv4v4",
+                  "isDropTarget": false
+                },
+                {
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "efwb4x61ga",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "isPermanent": false,
+                  "maxChildLimit": 1,
+                  "insertChild": true,
+                  "layoutType": "WIDGET_ROW",
+                  "layoutId": "0kbwu0ipy7",
                   "isDropTarget": false
                 }
               ],
