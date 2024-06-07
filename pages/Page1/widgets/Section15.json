@@ -2,7 +2,7 @@
     "needsErrorInfo": false,
     "boxShadow": "NONE",
     "mobileBottomRow": 10,
-    "widgetName": "Section6",
+    "widgetName": "Section15",
     "isCanvas": true,
     "displayName": "Section",
     "searchTags": [
@@ -20,11 +20,11 @@
     "leftColumn": 0,
     "dynamicBindingPathList": [],
     "elevatedBackground": false,
-    "key": "8dym3vs4lw",
+    "key": "jt2vw3qjox",
     "isDeprecated": false,
     "rightColumn": 64,
     "detachFromLayout": false,
-    "widgetId": "na7r6rfvjd",
+    "widgetId": "bnbt4ko9kj",
     "onCanvasUI": {
         "focusBGCSSVar": "--on-canvas-ui-section-focus",
         "disableParentSelection": true,
@@ -42,7 +42,7 @@
     "mobileTopRow": 0,
     "layout": [{
         "layout": [{
-            "widgetId": "ge8gpd1ope",
+            "widgetId": "gpxnpm69hz",
             "alignment": "start",
             "widgetType": "ZONE_WIDGET"
         }],
@@ -51,10 +51,10 @@
         "isContainer": true,
         "layoutType": "SECTION",
         "layoutStyle": {"border": "none"},
-        "layoutId": "5lhrjn3o7i",
+        "layoutId": "vuiu01zsxh",
         "isDropTarget": true
     }],
     "responsiveBehavior": "fill",
     "mobileLeftColumn": 0,
-    "spaceDistributed": {"ge8gpd1ope": 12}
+    "spaceDistributed": {"gpxnpm69hz": 12}
 }
