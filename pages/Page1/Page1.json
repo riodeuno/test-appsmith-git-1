@@ -1,0 +1,248 @@
+{
+  "unpublishedPage": {
+    "name": "Page1",
+    "slug": "page1",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 4896,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 380,
+          "containerStyle": "none",
+          "snapRows": 124,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 89,
+          "minHeight": 1292,
+          "layout": [
+            {
+              "layoutId": "b78qo7766n",
+              "layoutType": "ALIGNED_LAYOUT_COLUMN",
+              "layout": [
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "oya7v12l01",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "7e99xb3y6s",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "vi42mlk3iq",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "14rl4oelds",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "jcy9r3k1ms",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "42pz4xy42q",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "9a2ljg8n27",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "jc5f3n7wkk",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "0gn6cmrqu5",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "kamdih972r",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "na7r6rfvjd",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "qzav48phvg",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "mvkcwzfl25",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "ybh257et1t",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "0it592b7yl",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "j5wb1mddr0",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "o8mabb5ce3",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "apreebth3l",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "uk8nsa2b28",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "tebfqrg468",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "al1w5ygrzz",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "g2wb03ajwc",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "9575yoxngo",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "gybf79f877",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                }
+              ],
+              "layoutStyle": {
+                "border": "none",
+                "height": "100%",
+                "padding": "spacing-4",
+                "gap": "spacing-4"
+              },
+              "isDropTarget": true,
+              "isPermanent": true,
+              "childTemplate": {
+                "insertChild": true,
+                "isDropTarget": false,
+                "isPermanent": false,
+                "layout": [],
+                "layoutId": "",
+                "layoutType": "WIDGET_ROW",
+                "maxChildLimit": 1
+              }
+            }
+          ],
+          "dynamicTriggerPathList": [],
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Page1",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": []
+  },
+  "deleted": false,
+  "gitSyncId": "6660405ff31cf7559a915eb7_837991fd-af29-4a9b-b123-020b55436d7b"
+}

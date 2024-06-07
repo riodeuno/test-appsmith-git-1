@@ -1,0 +1,60 @@
+{
+    "needsErrorInfo": false,
+    "boxShadow": "NONE",
+    "mobileBottomRow": 10,
+    "widgetName": "Section10",
+    "isCanvas": true,
+    "displayName": "Section",
+    "searchTags": [
+        "div",
+        "parent",
+        "group"
+    ],
+    "topRow": 0,
+    "bottomRow": 10,
+    "parentRowSpace": 10,
+    "type": "SECTION_WIDGET",
+    "hideCard": true,
+    "mobileRightColumn": 64,
+    "parentColumnSpace": 1,
+    "leftColumn": 0,
+    "dynamicBindingPathList": [],
+    "elevatedBackground": false,
+    "key": "8dym3vs4lw",
+    "isDeprecated": false,
+    "rightColumn": 64,
+    "detachFromLayout": false,
+    "widgetId": "uk8nsa2b28",
+    "onCanvasUI": {
+        "focusBGCSSVar": "--on-canvas-ui-section-focus",
+        "disableParentSelection": true,
+        "focusColorCSSVar": "--on-canvas-ui-section-selection",
+        "selectionBGCSSVar": "--on-canvas-ui-section-selection",
+        "selectionColorCSSVar": "--on-canvas-ui-section-focus"
+    },
+    "zoneCount": 1,
+    "isVisible": true,
+    "version": 1,
+    "parentId": "0",
+    "tags": ["Layout"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 0,
+    "layout": [{
+        "layout": [{
+            "widgetId": "gk3qdpmd41",
+            "alignment": "start",
+            "widgetType": "ZONE_WIDGET"
+        }],
+        "isPermanent": true,
+        "maxChildLimit": 4,
+        "isContainer": true,
+        "layoutType": "SECTION",
+        "layoutStyle": {"border": "none"},
+        "layoutId": "pv7huku74v",
+        "isDropTarget": true
+    }],
+    "responsiveBehavior": "fill",
+    "mobileLeftColumn": 0,
+    "spaceDistributed": {"gk3qdpmd41": 12}
+}

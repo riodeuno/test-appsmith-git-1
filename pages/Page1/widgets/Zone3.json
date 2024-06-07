@@ -1,0 +1,73 @@
+{
+    "needsErrorInfo": false,
+    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "mobileBottomRow": 10,
+    "widgetName": "Zone3",
+    "flexGrow": 12,
+    "isCanvas": true,
+    "displayName": "Zone",
+    "searchTags": [
+        "div",
+        "parent",
+        "group"
+    ],
+    "topRow": 0,
+    "bottomRow": 10,
+    "parentRowSpace": 10,
+    "type": "ZONE_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 64,
+    "parentColumnSpace": 1,
+    "leftColumn": 0,
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "boxShadow"}
+    ],
+    "elevatedBackground": true,
+    "flexVerticalAlignment": "stretch",
+    "key": "dij5os4g1w",
+    "isDeprecated": false,
+    "rightColumn": 64,
+    "detachFromLayout": false,
+    "widgetId": "alczp5j20e",
+    "onCanvasUI": {
+        "focusBGCSSVar": "--on-canvas-ui-zone-focus",
+        "disableParentSelection": false,
+        "focusColorCSSVar": "--on-canvas-ui-zone-selection",
+        "selectionBGCSSVar": "--on-canvas-ui-zone-selection",
+        "selectionColorCSSVar": "--on-canvas-ui-zone-focus"
+    },
+    "isVisible": true,
+    "version": 1,
+    "parentId": "jcy9r3k1ms",
+    "tags": ["Layout"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 0,
+    "layout": [{
+        "layout": [{
+            "layout": [{
+                "widgetId": "8az9q8wazb",
+                "alignment": "start",
+                "widgetType": "BUTTON_WIDGET"
+            }],
+            "allowedWidgetTypes": ["SMALL_WIDGETS"],
+            "maxChildLimit": 0,
+            "insertChild": true,
+            "layoutType": "ALIGNED_WIDGET_ROW",
+            "layoutId": "l4o6jcc079"
+        }],
+        "isPermanent": true,
+        "isContainer": true,
+        "layoutType": "ZONE",
+        "layoutStyle": {
+            "border": "none",
+            "height": "100%"
+        },
+        "layoutId": "3blq85yneg",
+        "isDropTarget": true
+    }],
+    "responsiveBehavior": "fill",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 0
+}

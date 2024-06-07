@@ -1,0 +1,62 @@
+{
+    "needsErrorInfo": false,
+    "mobileBottomRow": 10,
+    "widgetName": "SwitchGroup1",
+    "displayName": "Switch Group",
+    "topRow": 0,
+    "bottomRow": 10,
+    "parentRowSpace": 10,
+    "type": "WDS_SWITCH_GROUP_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 64,
+    "animateLoading": true,
+    "parentColumnSpace": 1,
+    "leftColumn": 0,
+    "dynamicBindingPathList": [],
+    "labelPosition": "end",
+    "options": [
+        {
+            "label": "Blue",
+            "value": "BLUE"
+        },
+        {
+            "label": "Green",
+            "value": "GREEN"
+        },
+        {
+            "label": "Red",
+            "value": "RED"
+        }
+    ],
+    "isDisabled": false,
+    "key": "x69iq9aw05",
+    "isRequired": false,
+    "orientation": "vertical",
+    "isDeprecated": false,
+    "rightColumn": 64,
+    "defaultSelectedValues": [
+        "BLUE",
+        "RED"
+    ],
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "rh1tszxc4o",
+    "onCanvasUI": {
+        "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+        "disableParentSelection": false,
+        "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+        "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+        "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
+    },
+    "isVisible": true,
+    "label": "Label",
+    "version": 1,
+    "parentId": "vtorqwgut0",
+    "tags": ["Toggles"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 0,
+    "responsiveBehavior": "fill",
+    "mobileLeftColumn": 0,
+    "maxDynamicHeight": 9000,
+    "minDynamicHeight": 4
+}
