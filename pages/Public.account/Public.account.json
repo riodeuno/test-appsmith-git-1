@@ -23,42 +23,42 @@
           "minHeight": 900,
           "layout": [
             {
-              "layoutId": "nvlf69hlqu",
-              "layoutType": "ALIGNED_LAYOUT_COLUMN",
               "layout": [
                 {
-                  "insertChild": true,
-                  "isDropTarget": false,
-                  "isPermanent": false,
                   "layout": [
                     {
-                      "alignment": "start",
                       "widgetId": "xx0imk777a",
+                      "alignment": "start",
                       "widgetType": "SECTION_WIDGET"
                     }
                   ],
-                  "layoutId": "0w305dtw56",
+                  "isPermanent": false,
+                  "maxChildLimit": 1,
+                  "insertChild": true,
                   "layoutType": "WIDGET_ROW",
-                  "maxChildLimit": 1
+                  "layoutId": "0w305dtw56",
+                  "isDropTarget": false
                 }
               ],
-              "layoutStyle": {
-                "border": "none",
-                "height": "100%",
-                "padding": "spacing-4",
-                "gap": "spacing-4"
-              },
-              "isDropTarget": true,
               "isPermanent": true,
               "childTemplate": {
-                "insertChild": true,
-                "isDropTarget": false,
-                "isPermanent": false,
                 "layout": [],
-                "layoutId": "",
+                "isPermanent": false,
+                "maxChildLimit": 1,
+                "insertChild": true,
                 "layoutType": "WIDGET_ROW",
-                "maxChildLimit": 1
-              }
+                "layoutId": "",
+                "isDropTarget": false
+              },
+              "layoutType": "ALIGNED_LAYOUT_COLUMN",
+              "layoutStyle": {
+                "border": "none",
+                "padding": "spacing-4",
+                "gap": "spacing-4",
+                "height": "100%"
+              },
+              "layoutId": "nvlf69hlqu",
+              "isDropTarget": true
             }
           ],
           "parentColumnSpace": 1,

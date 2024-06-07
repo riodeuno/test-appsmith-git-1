@@ -23,26 +23,26 @@
           "minHeight": 900,
           "layout": [
             {
-              "layoutId": "l46ibmf011",
-              "layoutType": "ALIGNED_LAYOUT_COLUMN",
               "layout": [],
-              "layoutStyle": {
-                "border": "none",
-                "height": "100%",
-                "padding": "spacing-4",
-                "gap": "spacing-4"
-              },
-              "isDropTarget": true,
               "isPermanent": true,
               "childTemplate": {
-                "insertChild": true,
-                "isDropTarget": false,
-                "isPermanent": false,
                 "layout": [],
-                "layoutId": "",
+                "isPermanent": false,
+                "maxChildLimit": 1,
+                "insertChild": true,
                 "layoutType": "WIDGET_ROW",
-                "maxChildLimit": 1
-              }
+                "layoutId": "",
+                "isDropTarget": false
+              },
+              "layoutType": "ALIGNED_LAYOUT_COLUMN",
+              "layoutStyle": {
+                "border": "none",
+                "padding": "spacing-4",
+                "gap": "spacing-4",
+                "height": "100%"
+              },
+              "layoutId": "l46ibmf011",
+              "isDropTarget": true
             }
           ],
           "parentColumnSpace": 1,
